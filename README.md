@@ -38,5 +38,3 @@ Alberto Alejandro Pedraza
 QA Tester | Testing Manual | Testing de APIs | Git | GitHub
 
 Argentina
-
-Argentina
