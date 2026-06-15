@@ -31,6 +31,14 @@ Iguana Landing Page es una página web informativa enfocada en la presentación 
 * Mejorar la organización de archivos y estilos
 * Publicar proyectos utilizando Git y GitHub
 
+## Estado del Proyecto
+
+| Estado | Versión | Publicación |
+|---------|----------|-------------|
+| ✅ Finalizado | v1.0 | Junio 2026 |
+
+Este proyecto fue desarrollado con fines académicos como práctica de maquetación web, diseño responsive y gestión de versiones utilizando Git y GitHub.
+
 ## Autor
 
 Alberto Alejandro Pedraza
